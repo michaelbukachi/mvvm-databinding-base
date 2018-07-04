@@ -1,6 +1,6 @@
-package dev.dita.maziwapp.ui.base.v2
 
-import androidx.lifecycle.ViewModel
+
+import android.arch.lifecycle.ViewModel
 
 open class BaseViewModel : ViewModel() {
 

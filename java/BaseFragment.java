@@ -1,6 +1,3 @@
-package dita.dev.myportal.ui.base.v2;
-
-
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;

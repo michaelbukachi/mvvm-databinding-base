@@ -1,5 +1,3 @@
-package dita.dev.myportal.ui.base.v2;
-
 import android.databinding.OnRebindCallback;
 import android.databinding.ViewDataBinding;
 import android.support.annotation.CallSuper;

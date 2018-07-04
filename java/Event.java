@@ -1,5 +1,3 @@
-package dita.dev.myportal.ui.base.v2;
-
 import android.arch.lifecycle.LifecycleOwner;
 
 public class Event extends SingleLiveEvent<Void> {

@@ -1,5 +1,3 @@
-package dev.dita.maziwapp.ui.base.v2
-
 import android.databinding.DataBindingUtil
 import android.databinding.ViewDataBinding
 import android.support.annotation.LayoutRes

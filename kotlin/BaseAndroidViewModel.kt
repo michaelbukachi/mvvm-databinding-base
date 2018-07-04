@@ -1,7 +1,5 @@
-package dev.dita.maziwapp.ui.base.v2
-
 import android.app.Application
-import androidx.lifecycle.AndroidViewModel
+import android.arch.lifecycle.AndroidViewModel
 
 open class BaseAndroidViewModel constructor(application: Application) : AndroidViewModel(application) {
     open val snackbarMessage = SnackbarMessage()

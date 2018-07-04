@@ -1,5 +1,3 @@
-package dev.dita.maziwapp.ui.base.v2
-
 import android.os.Bundle
 import android.support.design.widget.Snackbar
 import android.view.LayoutInflater

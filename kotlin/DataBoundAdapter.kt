@@ -1,8 +1,7 @@
-package dev.dita.maziwapp.ui.base.v2
-
 import android.databinding.ViewDataBinding
 import android.support.annotation.LayoutRes
-import java.util.*
+import java.util.ArrayList
+import java.util.List
 
 abstract class DataBoundAdapter<S : BaseListItem, T : ViewDataBinding>(@param:LayoutRes @field:LayoutRes
                                                                        private val layoutId: Int, protected var data: ArrayList<S>?) : BaseDataBoundAdapter<T>() {

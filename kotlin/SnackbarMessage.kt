@@ -1,5 +1,3 @@
-package dev.dita.maziwapp.ui.base.v2
-
 import android.arch.lifecycle.LifecycleOwner
 import android.arch.lifecycle.Observer
 

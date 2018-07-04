@@ -1,5 +1,3 @@
-package dita.dev.myportal.ui.base.v2;
-
 import android.app.Application;
 import android.arch.lifecycle.AndroidViewModel;
 import android.support.annotation.NonNull;
